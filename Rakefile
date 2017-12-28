@@ -10,7 +10,7 @@ end
 
 ## build ffmpeg
 
-SDK_VERSION='10.0'
+SDK_VERSION='11.0'
 
 GCC_PATH='`xcrun -f --sdk iphoneos clang`'
 LIB_PATH='/usr/lib/system'
